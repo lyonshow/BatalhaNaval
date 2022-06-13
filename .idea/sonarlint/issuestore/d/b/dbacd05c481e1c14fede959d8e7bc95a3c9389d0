@@ -1,7 +1,0 @@
-
-@python:S1481")Remove the unused local variable "linha".(ÇŠ”@
-;python:S1255"Remove this commented out code.(­…Ñëÿÿÿÿÿ
-Kpython:S1481U".Remove the unused local variable "quantidade".(ÙèýÆùÿÿÿÿ
-Fpython:S1481P")Remove the unused local variable "sinal".(¿«õ¿üÿÿÿÿ
-Dpython:S1481d",Remove the unused local variable "contador".(Ì¿©ê
-qpython:S3776N"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(…¦ÂÃþÿÿÿÿ
